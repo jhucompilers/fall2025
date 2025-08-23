@@ -32,23 +32,37 @@ Class meetings are in Krieger 180
 
 ## Textbook
 
-Recommended: Cooper and Torczon, [Engineering a Compiler (2nd Ed.)](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0), ISBN 9780120884780
+Recommended: Cooper and Torczon, [Engineering a Compiler (2nd
+Ed.)](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0),
+ISBN 9780120884780
 
-Recommended: Levine, [Flex and Bison](https://www.oreilly.com/library/view/flex-bison/9780596805418/), ISBN 9780596155971
+Recommended: Levine, [Flex and
+Bison](https://www.oreilly.com/library/view/flex-bison/9780596805418/),
+ISBN 9780596155971
 
 ## Online Resources
 
-Lecture notes, assignments, and public information about the course will be posted on the course website, <https://jhucompilers.github.io/fall2025>.  You should check the course website frequently.
+Lecture notes, assignments, and public information
+about the course will be posted on the course website,
+<https://jhucompilers.github.io/fall2025>.  You should check the course
+website frequently.
 
-Courselore (announcements, discussion): <https://courselore.org> (You should receive an invite link, email me if you haven't received it)
+Courselore (announcements, discussion): <https://courselore.org> (You
+should receive an invite link, email me if you haven't received it)
 
-Gradescope (assignment/exam submission and grading): <https://www.gradescope.com> (You should be able to use "School Credentials" to log in using JHU SSO, email me if you are having issues)
+Gradescope (assignment/exam submission and grading):
+<https://www.gradescope.com> (You should be able to use "School
+Credentials" to log in using JHU SSO, email me if you are having issues)
 
-Lecture recording videos will be posted on Canvas: click the "Panopto Video" link on the left hand side of the page.
+Lecture recording videos will be posted on Canvas: click the "Panopto
+Video" link on the left hand side of the page.
 
 ## Course Information
 
-* Introduction to compiler design, including lexical analysis, parsing, syntax-directed translation, symbol tables, runtime environments, and code generation and optimization. Students are required to write a compiler as a course project.
+* Introduction to compiler design, including lexical analysis, parsing,
+  syntax-directed translation, symbol tables, runtime environments,
+  and code generation and optimization. Students are required to write a
+  compiler as a course project.
 * **Prerequisites**<br>
   Intermediate Programming (EN.601.220)<br>
   Data Structures (EN.601.226)<br>
@@ -95,14 +109,11 @@ in-class activities.
 
 Your course grade will be determined as follows:
 
-* Programming assignments: 60%
-* Exams: 40%
+* Programming assignments: 50%
+* Exams: 50%
 
 You have a total of 120 late hours to use as needed for homework
-assignments throughout the course. Each 60 minute period following an
-assignment deadline is considered to be one late hour: for example, if
-an assignment is due at 11pm on Friday, but you submit your assignment
-at 11:30pm on Friday, you have used one late hour. If you are planning
+assignments throughout the course.  If you are planning
 on using more than 48 late hours on an assignment, please send a
 private message to the instructors on Courselore to let us know. Assignment
 submissions which exceed the maximum number of late hours will (generally)
@@ -199,8 +210,10 @@ If you have concerns about a yourself or another student, please contact:
 * For **undergraduate students** who may benefit from Case Management services (1:1 support,
   coordination and connection to relevant campus resources): **Student Outreach & Support**
   at 410-516-7857 or <mailto:studentoutreach@jhu.edu>
-* For **KSAS Graduate Students**: [Renee Eastwood](mailto:rseitz5@jhu.edu), Assistant Dean for Graduate and Postdoctoral Academic and Student Affairs
-* For WSE Graduate Students: [Megan Barrett](mailto:mmcgui15@jh.edu), Assistant Dean for Engineering Student Affairs
+* For **KSAS Graduate Students**: [Renee Eastwood](mailto:rseitz5@jhu.edu),
+  Assistant Dean for Graduate and Postdoctoral Academic and Student Affairs
+* For WSE Graduate Students: [Megan Barrett](mailto:mmcgui15@jh.edu),
+  Assistant Dean for Engineering Student Affairs
 
 ### Academic Integrity
 

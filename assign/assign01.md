@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1"
 ---
 
-**Due**: Friday, Sep 13th by 11pm Baltimore time
+**Due**: Friday, Sep 12th by 11pm Baltimore time
 
 # Interpreter part 1: expression evaluation
 
