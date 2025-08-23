@@ -29,4 +29,5 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
-* **Aug 25** — Welcome!
+* **Aug 25** — Welcome! [Assignment 1](assign/assign01.html) is due
+  Friday, Sep 12th.
