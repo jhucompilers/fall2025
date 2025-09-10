@@ -29,5 +29,7 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Sep 10** — [Assignment 2](assign/assign02.html) has two milestones,
+  due Monday, Sep 22nd and Friday, October 3rd, respectively.
 * **Aug 25** — Welcome! [Assignment 1](assign/assign01.html) is due
   Friday, Sep 12th.

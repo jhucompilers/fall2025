@@ -33,10 +33,10 @@ Sep 8 | [ASTs, interpreters](lectures/lecture04-public.pdf) |  |
 Sep 10 | [Interpreter runtime structures](lectures/lecture05-public.pdf) |  | [A1](assign/assign01.html) due<br>Fri 9/12
 Sep 15 | [Interpreter runtime structures 2](lectures/lecture06-public.pdf) | [Gosling, Java Intermediate Bytecodes](https://dl.acm.org/doi/pdf/10.1145/202529.202541) | 
 Sep 17 | [Lexical analyzer generators, lex/flex](lectures/lecture07-public.pdf) | EaC 2.1–2.5, F&amp;B Chapters 1–2 | 
-Sep 22 | [LL(1) parsing](lectures/lecture08-public.pdf) | EaC 3.3 | <!--[A2](assign/assign02.html) MS1 due-->
+Sep 22 | [LL(1) parsing](lectures/lecture08-public.pdf) | EaC 3.3 | [A2](assign/assign02.html) MS1 due
 Sep 24 | [Parser generators, yacc/bison](lectures/lecture09-public.pdf), [calc.zip (example code)](lectures/calc.zip) | F&amp;B Chapter 3 | 
 Sep 29 | [Bottom-up parsing, Exam 1 review](lectures/lecture10-public.pdf) | EaC 3.4 | 
-Oct 1 | **Exam 1** |  | <!--[A2](assign/assign02.html) MS2 due<br>Thurs 10/3-->
+Oct 1 | **Exam 1** |  | [A2](assign/assign02.html) MS2 due<br>Fri 10/3
 Oct 6 | <span class='tentative'>C syntax and semantics</span> |  | 
 Oct 8 | <span class='tentative'>AST visitors, ad-hoc semantic analysis<span class='tentative'> |  | 
 Oct 13 | <span class='tentative'>Intermediate representations<span class='tentative'> | EaC 5.1–5.5 | 
