@@ -11,22 +11,22 @@ Sep 22,"LL(1) parsing",lectures/lecture08-public.pdf,,"EaC 3.3","[A2](assign/ass
 Sep 24,"Parser generators, yacc/bison",lectures/lecture09-public.pdf,calc.zip,"F&amp;B Chapter 3",
 Sep 29,"Bottom-up parsing, Exam 1 review",lectures/lecture10-public.pdf,,"EaC 3.4"
 Oct 1,"**Exam 1**",,,,"[A2](assign/assign02.html) MS2 due<br>Fri 10/3"
-Oct 6,"<span class='tentative'>C syntax and semantics</span>",,,
-Oct 8,"<span class='tentative'>AST visitors, ad-hoc semantic analysis<span class='tentative'>",,,,
-Oct 13,"<span class='tentative'>Intermediate representations<span class='tentative'>",,,"EaC 5.1–5.5"
-Oct 15,"<span class='tentative'>Code generation for expressions<span class='tentative'>",,,"EaC 7.1–7.4",
+Oct 6,"C syntax and semantics",lectures/lecture11-public.pdf,,
+Oct 8,"AST visitors, ad-hoc semantic analysis",lectures/lecture12-public.pdf,,,
+Oct 13,"Intermediate representations",lectures/lecture13-public.pdf,,"EaC 5.1–5.5"
+Oct 15,"Code generation for expressions",lectures/lecture14-public.pdf,,"EaC 7.1–7.4",
 Oct 16–17,*WSE Fall break (no classes)*,
-Oct 20,"<span class='tentative'>x86-64 assembly language, low-level codegen<span class='tentative'>",,,,
-Oct 22,"<span class='tentative'>Conditions, decisions, and loops<span class='tentative'>",,,"EaC 7.8","<!--[A3](assign/assign03.html) due-->"
-Oct 27,"<span class='tentative'>Pointers, arrays, structs, function calls<span class='tentative'>",,,"EaC 7.5–7.7, 7.9",,
-Oct 29,"<span class='tentative'>Exam 2 review, codegen work day</span>",,,"","<!--[A4](assign/assign04.html) MS1 due<br>Fri 11/1-->"
-Nov 3,"<span class='tentative'>Exam 2</span>",,,
-Nov 5,"<span class='tentative'>Intro to code optimization, local value numbering, copy propagation</span>",,,"EaC 8.1–8.5"
-Nov 10,"<span class='tentative'>Global optimization/liveness analysis</span>",,,"EaC 8.6"
-Nov 12,"<span class='tentative'>Local register allocation</span>",,,"EaC 13.1–13.3","<!--[A4](assign/assign04.html) MS2 due<br>Fri 11/15-->"
-Nov 17,"<span class='tentative'>Peephole optimization</span>",,,"EaC 11.5"
-Nov 19,"<span class='tentative'>Dataflow analysis</span>",,,"EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a>",
+Oct 20,"x86-64 assembly language, low-level codegen",lectures/lecture15-public.pdf,,,
+Oct 22,"Conditions, decisions, and loops",lectures/lecture16-public.pdf,,"EaC 7.8","<!--[A3](assign/assign03.html) due-->"
+Oct 27,"Pointers, arrays, structs, function calls",lectures/lecture17-public.pdf,,"EaC 7.5–7.7, 7.9",,
+Oct 29,"Exam 2 review, codegen work day",,,"","<!--[A4](assign/assign04.html) MS1 due<br>Fri 11/1-->"
+Nov 3,"Exam 2",,,
+Nov 5,"Intro to code optimization, local value numbering, copy propagation",lectures/lecture18-public.pdf,,"EaC 8.1–8.5"
+Nov 10,"Global optimization/liveness analysis",lectures/lecture19-public.pdf,,"EaC 8.6"
+Nov 12,"Local register allocation",lectures/lecture20-public.pdf,,"EaC 13.1–13.3","<!--[A4](assign/assign04.html) MS2 due<br>Fri 11/15-->"
+Nov 17,"Peephole optimization",lectures/lecture21-public.pdf,,"EaC 11.5"
+Nov 19,"Dataflow analysis",lectures/foster-dataflow.pdf,,"EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a>",
 Nov 24–28,*Fall recess (no classes)*,
-Dec 1,"<span class='tentative'>Static single assignment (SSA) form</span>",,,
-Dec 3,"<span class='tentative'>Exam 3 review, work day",,,,"<!--<span class='tentative'>A5 due<br>Fri 12/6</span>-->"
-Dec 19,"<span class='tentative'>Exam 3, 6pm, location TBD",
+Dec 1,"Static single assignment (SSA) form",,,
+Dec 3,"Exam 3 review, work day",,,,"<!--<span class='tentative'>A5 due<br>Fri 12/6</span>-->"
+Dec 19,"Exam 3, 6pm, location TBD",
