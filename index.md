@@ -29,6 +29,8 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Oct 3** — [Assignment 3](assign/assign03.html) is due Wednesday,
+  October 22nd.
 * **Sep 24** — Exam 1 will take place in class on Wednesday, October 1st.
   Review materials are available on the [Resources](resources.html) page.
   Note that you are allowed to bring one sheet of *hand-written* notes.
