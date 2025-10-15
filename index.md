@@ -29,6 +29,8 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Oct 15** — [Assignment 4](assign/assign04.html) has two milestones,
+  due Friday, Oct 31st, and Friday, Nov 14th, respectively.
 * **Oct 3** — [Assignment 3](assign/assign03.html) is due Wednesday,
   October 22nd.
 * **Sep 24** — Exam 1 will take place in class on Wednesday, October 1st.
