@@ -29,6 +29,9 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Nov 7** — [Assignment 5](assign/assign05.html) is due Friday,
+  Dec 7th. Note that late hours may not be used on this assignment:
+  please plan accordingly.
 * **Oct 21** — Exam 2 wil take place in class on Monday, November 1st.
   Review materials are available on the [Resources](resources.html) page.
   Note that you are allowed to bring one sheet of *hand-written* notes.
