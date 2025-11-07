@@ -28,5 +28,5 @@ Nov 17,"Peephole optimization",lectures/lecture21-public.pdf,,"EaC 11.5"
 Nov 19,"Dataflow analysis",lectures/foster-dataflow.pdf,,"EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a>",
 Nov 24–28,*Fall recess (no classes)*,
 Dec 1,"Static single assignment (SSA) form",,,
-Dec 3,"Exam 3 review, work day",,,,"<!--<span class='tentative'>A5 due<br>Fri 12/6</span>-->"
+Dec 3,"Exam 3 review, work day",,,,"[A5](assign/assign05.html) due<br>Fri 12/5"
 Dec 19,"Exam 3, 6pm, location TBD",
