@@ -27,6 +27,6 @@ Nov 12,"Local register allocation",lectures/lecture20-public.pdf,,"EaC 13.1–13
 Nov 17,"Peephole optimization",lectures/lecture21-public.pdf,,"EaC 11.5"
 Nov 19,"Dataflow analysis",lectures/foster-dataflow.pdf,,"EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a>",
 Nov 24–28,*Fall recess (no classes)*,
-Dec 1,"Static single assignment (SSA) form",,,
+Dec 1,"Static single assignment (SSA) form: [slides](lectures/lecture23-public.pdf), [CMU SSA slides](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s12/public/lectures/L13-SSA-Concepts-1up.pdf), [PDX global reg alloc slides](https://web.cecs.pdx.edu/~mperkows/temp/register-allocation.pdf)",,,
 Dec 3,"Exam 3 review, work day",,,,"[A5](assign/assign05.html) due<br>Fri 12/5"
 Dec 17,"Exam 3, 6pm, Krieger 180",
